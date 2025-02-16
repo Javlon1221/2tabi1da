@@ -1,0 +1,11 @@
+.container{
+    max-width: 1472px;
+    width: 100%;
+    padding: 16px;
+    margin: 0 auto;
+
+}
+@theme{
+    --color-pr: #7EB693;
+    --color-cg: #274C5B;
+}
